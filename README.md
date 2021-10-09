@@ -17,9 +17,9 @@ Junk Files Cleaner is a Batch file used to clean up Junk and Temporary files tha
 Easy Steps :
 
 > Repository from Code 
-> Download Zip 
-> Extract Zip Folder
-> Clean.Bat Run as Administrator or Open
+- Download Zip 
+- Extract Zip Folder
+- Clean.Bat Run as Administrator or Open
 > Enjoy it
 
 ## Is it Risky or damage anything?
