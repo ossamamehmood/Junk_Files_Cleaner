@@ -24,6 +24,13 @@ Steps :
 
 Run :
 
+> Go to Location
+
+> Right Click on Clean.Bat (Batch File)
+
+> Run as Administrator 
+
+
 
 ## Is it Risky or damage anything?
 
