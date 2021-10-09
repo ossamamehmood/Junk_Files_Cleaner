@@ -1,4 +1,4 @@
-## Single Click (Boost Up) 💻
+# Single Click (Boost Up) 💻
 
 ### Steps :
 
