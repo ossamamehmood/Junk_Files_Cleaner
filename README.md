@@ -12,9 +12,9 @@ Junk Files Cleaner is a Batch file used to clean up Junk and Temporary files tha
 
 - Free to Use ( Open Source Batch Code ) 
 
-## How to setup and Run
+## Single Click (Boost Up) 💻
 
-Steps :
+### Steps :
 
 > Repository from Code 
 - Download Zip 
@@ -22,17 +22,28 @@ Steps :
 - Clean.Bat Run as Administrator or Open
 > Enjoy it
 
-Run :
+### Run :
 
-> Go to Location
+> ### Go to Location
 
-> Right Click on Clean.Bat (Batch File)
+<p align="left">
+  <img alt="" style="{max-height: 20px}" src="./Junk File Cleaner (Running Process)/Go to Location.PNG">
+</p>
 
-> Run as Administrator 
+> ### Right Click on Clean.Bat (Batch File)
+
+<p align="left">
+  <img alt="" style="{max-height: 20px}" src="./Junk File Cleaner (Running Process)/Right Click Clean.PNG">
+</p>
+
+> ### Run as Administrator 
+
+<p align="left">
+  <img alt="" style="{max-height: 20px}" src="./Junk File Cleaner (Running Process)/Run as Administrator.PNG">
+</p>
 
 
-
-## Is it Risky or damage anything?
+# Risky or damage directories (files)
 
 No, The Batch script is quite understandable and included only the windows temporary directories (files). It'll never impact any other files or folder 📂 
 
@@ -62,4 +73,3 @@ You are required to change directories (files location) in order to run the Batc
 ## Support 💓
 
 Support at <a href="https://www.patreon.com/ossamamehmood" target="_blank">Patreon</a>
-
