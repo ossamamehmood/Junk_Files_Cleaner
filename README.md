@@ -12,15 +12,18 @@ Junk Files Cleaner is a Batch file used to clean up Junk and Temporary files tha
 
 - Free to Use ( Open Source Batch Code ) 
 
-## How to setup or install
+## How to setup and Run
 
-Easy Steps :
+Steps :
 
 > Repository from Code 
 - Download Zip 
 - Extract Zip Folder
 - Clean.Bat Run as Administrator or Open
 > Enjoy it
+
+Run :
+
 
 ## Is it Risky or damage anything?
 
